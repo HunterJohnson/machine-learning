@@ -1,2 +1,2 @@
 # machine-learning
-implementation of machine learning algos
+implementation & examples of machine learning algos
