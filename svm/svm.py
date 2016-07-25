@@ -118,5 +118,4 @@ class SVMPredictor(object):
                                  self._support_vector_labels):
             result += z_i * y_i * self._kernel(x_i, x)
         return np.sign(result).item()
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
+
