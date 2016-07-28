@@ -1,4 +1,5 @@
 # from http://iamtrask.github.io/2015/07/27/python-network-part2/
+# neural network w/ stochastic gradient descent
 
 import numpy as np
 
