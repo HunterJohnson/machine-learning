@@ -1,1 +1,37 @@
 # DL - NN
+
+# LSTM - RNN - GRU
+
+# backprop
+
+# sgd
+
+# CNN
+
+# SVM
+
+# boltzmann machine
+
+# linear reg
+
+# ols 
+
+# logistic reg
+
+# markov chain monte carlo
+
+# PCA v ICA
+
+# centroid based
+
+# connectivity based
+
+# density based
+
+# dimensionality reduction
+
+# singular value decomp
+
+# KNN
+
+# matrix factorization
