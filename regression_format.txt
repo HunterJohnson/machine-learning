@@ -15,4 +15,5 @@ linear.score(x_train, y_train)
 print('Coefficient: \n', linear.coef_)
 print('Intercept: \n', linear.intercept_)
 #Predict Output
+
 predicted= linear.predict(x_test)
