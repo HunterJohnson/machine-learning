@@ -13,3 +13,6 @@ xgboost GBDT
 
 boltzmann machine
 
+
+stanard linear regression / OLS / SGD
+
